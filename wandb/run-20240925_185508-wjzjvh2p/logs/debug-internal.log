@@ -1,0 +1,11 @@
+{"time":"2024-09-25T18:55:08.05987+05:30","level":"INFO","msg":"using version","core version":"0.18.1"}
+{"time":"2024-09-25T18:55:08.059899+05:30","level":"INFO","msg":"created symlink","path":"/Users/kanishka/Documents/MyNoise/wandb/run-20240925_185508-wjzjvh2p/logs/debug-core.log"}
+{"time":"2024-09-25T18:55:08.059962+05:30","level":"INFO","msg":"using version","core version":"0.18.1"}
+{"time":"2024-09-25T18:55:08.059968+05:30","level":"INFO","msg":"created symlink","path":"/Users/kanishka/Documents/MyNoise/wandb/run-20240925_185508-wjzjvh2p/logs/debug-core.log"}
+{"time":"2024-09-25T18:55:08.067184+05:30","level":"INFO","msg":"created new stream","id":"wjzjvh2p"}
+{"time":"2024-09-25T18:55:08.067211+05:30","level":"INFO","msg":"stream: started","id":"wjzjvh2p"}
+{"time":"2024-09-25T18:55:08.067227+05:30","level":"INFO","msg":"writer: Do: started","stream_id":{"value":"wjzjvh2p"}}
+{"time":"2024-09-25T18:55:08.067227+05:30","level":"INFO","msg":"handler: started","stream_id":{"value":"wjzjvh2p"}}
+{"time":"2024-09-25T18:55:08.067242+05:30","level":"INFO","msg":"sender: started","stream_id":{"value":"wjzjvh2p"}}
+{"time":"2024-09-25T18:55:08.760495+05:30","level":"INFO","msg":"wandb-core","!BADKEY":null}
+{"time":"2024-09-25T18:55:08.762103+05:30","level":"INFO","msg":"Starting system monitor"}

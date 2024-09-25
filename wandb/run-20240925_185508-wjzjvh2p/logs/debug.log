@@ -1,0 +1,25 @@
+2024-09-25 18:55:08,057 INFO    MainThread:58284 [wandb_setup.py:_flush():77] Current SDK version is 0.18.1
+2024-09-25 18:55:08,057 INFO    MainThread:58284 [wandb_setup.py:_flush():77] Configure stats pid to 58284
+2024-09-25 18:55:08,057 INFO    MainThread:58284 [wandb_setup.py:_flush():77] Loading settings from /Users/kanishka/.config/wandb/settings
+2024-09-25 18:55:08,057 INFO    MainThread:58284 [wandb_setup.py:_flush():77] Loading settings from /Users/kanishka/Documents/MyNoise/wandb/settings
+2024-09-25 18:55:08,057 INFO    MainThread:58284 [wandb_setup.py:_flush():77] Loading settings from environment variables: {}
+2024-09-25 18:55:08,057 INFO    MainThread:58284 [wandb_setup.py:_flush():77] Applying setup settings: {'mode': None, '_disable_service': None}
+2024-09-25 18:55:08,057 INFO    MainThread:58284 [wandb_setup.py:_flush():77] Inferring run settings from compute environment: {'program_relpath': 'ExperimentRun.py', 'program_abspath': '/Users/kanishka/Documents/MyNoise/ExperimentRun.py', 'program': '/Users/kanishka/Documents/MyNoise/ExperimentRun.py'}
+2024-09-25 18:55:08,057 INFO    MainThread:58284 [wandb_setup.py:_flush():77] Applying login settings: {}
+2024-09-25 18:55:08,057 INFO    MainThread:58284 [wandb_init.py:_log_setup():532] Logging user logs to /Users/kanishka/Documents/MyNoise/wandb/run-20240925_185508-wjzjvh2p/logs/debug.log
+2024-09-25 18:55:08,057 INFO    MainThread:58284 [wandb_init.py:_log_setup():533] Logging internal logs to /Users/kanishka/Documents/MyNoise/wandb/run-20240925_185508-wjzjvh2p/logs/debug-internal.log
+2024-09-25 18:55:08,057 INFO    MainThread:58284 [wandb_init.py:init():616] calling init triggers
+2024-09-25 18:55:08,057 INFO    MainThread:58284 [wandb_init.py:init():623] wandb.init called with sweep_config: {}
+config: {'dataset_name': 'CIFAR10', 'input_size': 3072, 'output_size': 10, 'nneurons': [100], 'epochs': 3000, 'batch_size': 128, 'learning_rate': 0.001, 'diffusion_noise': 0.0, 'noise_type': 'normal', 'use_wandb': True, 'device': 'cpu', 'classification': True, 'transpose': False, 'use_projection_matrix': False, 'project_before_noise': False, 'adjust_diffusion': False, 'use_bias_hidden': True, 'use_bias_output': True, 'act_func': 'relu', 'k_approach': None, 'norm_addresses': False, 'norm_values': False, 'norm_activations': False, 'all_positive_weights': False, 'cifar10_mean': (0.4914, 0.4822, 0.4465), 'cifar10_std': (0.2023, 0.1994, 0.201)}
+2024-09-25 18:55:08,057 INFO    MainThread:58284 [wandb_init.py:init():666] starting backend
+2024-09-25 18:55:08,057 INFO    MainThread:58284 [wandb_init.py:init():670] setting up manager
+2024-09-25 18:55:08,058 INFO    MainThread:58284 [backend.py:_multiprocessing_setup():105] multiprocessing start_methods=spawn,fork,forkserver, using: spawn
+2024-09-25 18:55:08,059 INFO    MainThread:58284 [wandb_init.py:init():678] backend started and connected
+2024-09-25 18:55:08,062 INFO    MainThread:58284 [wandb_init.py:init():773] updated telemetry
+2024-09-25 18:55:08,063 INFO    MainThread:58284 [wandb_init.py:init():806] communicating run to backend with 90.0 second timeout
+2024-09-25 18:55:08,758 INFO    MainThread:58284 [wandb_init.py:init():857] starting run threads in backend
+2024-09-25 18:55:08,821 INFO    MainThread:58284 [wandb_run.py:_console_start():2459] atexit reg
+2024-09-25 18:55:08,821 INFO    MainThread:58284 [wandb_run.py:_redirect():2307] redirect: wrap_raw
+2024-09-25 18:55:08,821 INFO    MainThread:58284 [wandb_run.py:_redirect():2372] Wrapping output streams.
+2024-09-25 18:55:08,821 INFO    MainThread:58284 [wandb_run.py:_redirect():2397] Redirects installed.
+2024-09-25 18:55:08,823 INFO    MainThread:58284 [wandb_init.py:init():900] run started, returning control to user process

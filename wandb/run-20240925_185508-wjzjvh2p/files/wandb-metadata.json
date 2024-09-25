@@ -1,0 +1,33 @@
+{
+  "os": "macOS-14.4-arm64-arm-64bit",
+  "python": "3.11.4",
+  "startedAt": "2024-09-25T13:25:08.059686Z",
+  "program": "/Users/kanishka/Documents/MyNoise/ExperimentRun.py",
+  "codePath": "ExperimentRun.py",
+  "email": "kanishkareddy16@gmail.com",
+  "root": "/Users/kanishka/Documents/MyNoise",
+  "host": "Kanishkas-MacBook-Pro.local",
+  "username": "kanishka",
+  "executable": "/Users/kanishka/Documents/MyNoise/.venv/bin/python",
+  "codePathLocal": "ExperimentRun.py",
+  "cpu_count": 10,
+  "cpu_count_logical": 10,
+  "disk": {
+    "/": {
+      "total": "994662584320",
+      "used": "384041254912"
+    }
+  },
+  "memory": {
+    "total": "34359738368"
+  },
+  "cpu": {
+    "count": 10,
+    "countLogical": 10
+  },
+  "gpuapple": {
+    "gpuType": "Apple M1 Pro",
+    "vendor": "sppci_vendor_Apple",
+    "cores": 16
+  }
+}
